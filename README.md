@@ -1,6 +1,8 @@
 # RGB COLOR GUESSING GAME
 
-Final Version from Code Along with [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/). 
+Final Version from Code Along with [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/).
+
+[DEPLOYED SITE | COLOR GAME](https://dcbeergoddess.github.io/RGB_ColorGame_JS_CSS_HTML/)
 
 Below contains all notes as unit in course progressed to show how application was built piece by pice and code was refactored with knowlegde that you learn up to this point in the bootcamp. You can find code for each section such under the JAVASCRIPT_10_COLORGAME corresponding to the appropriate name/part.   
 
